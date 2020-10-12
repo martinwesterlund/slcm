@@ -1,1 +1,1 @@
-Hejsan från lokal 
+Hejsan
